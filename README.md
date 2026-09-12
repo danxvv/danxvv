@@ -1,33 +1,46 @@
 # Daniel Temalatzi Mojica
 
-## Backend & AI Platform Engineer
+**Backend & AI Platform Engineer** · Python, Go & TypeScript
 
-I build cloud-native services, production AI agents, and developer tools that turn complex workflows into useful products.
+I build cloud-native services, production AI agents, and developer tools that turn complex workflows into useful products. My focus is on reliable APIs, event-driven systems, and secure cloud automation—with observability and maintainability built in.
 
-My work focuses on backend architecture, API design, event-driven systems, secure cloud automation, and AI workflows that are reliable enough to support real users. I mainly work with Python, Go, and TypeScript, and I enjoy making systems observable, maintainable, and easy to operate.
+[LinkedIn](https://linkedin.com/in/dtemalatzi) · [Email](mailto:danielmote97@outlook.com) · [GitHub](https://github.com/danxvv)
+
+## What I build
+
+- **Backend platforms:** APIs, microservices, and integrations that connect products with external providers.
+- **AI workflows:** MCP servers and LangChain/LangGraph agents for reporting, support, and automation.
+- **Cloud tooling:** Secure onboarding, privileged access, and operational automation for Azure environments.
+
+Beyond platform engineering, I build interactive products: music bots with playback and recommendations, browser-based creative tools that combine drawing with AI image generation, and native iOS fitness apps for workout planning and progress tracking. I enjoy connecting backend systems with interfaces people can use every day.
 
 ## Experience
 
-- **Software Developer II · Rackspace Technology** — Built backend and platform services for Azure customer support, onboarding, secure access, and environment enablement. Developed Model Context Protocol (MCP) servers and LangChain/LangGraph agents for customer reports and support workflows.
-- **Backend Tech Lead · WE BOOK YOU** — Led a backend team building a flight and hotel booking platform in Python and Go, integrating REST and SOAP provider APIs and shaping a domain-based integration architecture.
-- **Backend Engineer · Cura Deuda** — Worked on Python and Flask microservices, Go event-driven services, FastAPI messaging integrations, and operational automation.
+- **Software Developer II · Rackspace Technology** — Built backend and platform services for Azure customer support, onboarding, and secure access. Developed MCP servers and AI agents for customer reports and support workflows.
+- **Backend Tech Lead · WE BOOK YOU** — Led a backend team building a flight and hotel booking platform in Python and Go, integrating REST and SOAP providers through a domain-based architecture.
+- **Backend Engineer · Cura Deuda** — Built Python and Flask microservices, Go event-driven services, FastAPI messaging integrations, and operational automation.
 
-## Skills
+## Toolkit
 
-- **Languages:** Python, Go, TypeScript, JavaScript, SQL, PowerShell
-- **AI & LLMs:** LangChain, LangGraph, Model Context Protocol (MCP), agent orchestration, tool calling, LLM-based reporting and support automation
-- **Backend & APIs:** FastAPI, Flask, Gin, Node.js, PostgreSQL, Redis, REST, SOAP, microservices, domain-based architecture, event-driven architecture
-- **Cloud & DevOps:** Azure Functions, Azure Resource Graph, Azure Lighthouse, Microsoft Entra PIM, Cosmos DB, Service Bus, Application Insights, GitHub Actions, CI/CD, Docker, Datadog
-- **Security & Identity:** OAuth 2.0, OpenID Connect, JWKS validation, token introspection, just-in-time privileged access, secure onboarding, cloud compliance
-- **Frontend:** React, Astro, TanStack
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Go, TypeScript, JavaScript, SQL, PowerShell |
+| **Backend & data** | FastAPI, Flask, Gin, Node.js, PostgreSQL, Redis, REST, SOAP |
+| **AI & agents** | LangChain, LangGraph, Model Context Protocol (MCP), agent orchestration, tool calling |
+| **Azure** | Functions, Resource Graph, Lighthouse, Microsoft Entra PIM, Cosmos DB, Service Bus, Application Insights |
+| **Delivery & operations** | Docker, GitHub Actions, CI/CD, Datadog |
+| **Security & identity** | OAuth 2.0, OpenID Connect, JWKS validation, token introspection, just-in-time privileged access |
+| **Frontend** | React, Astro, TanStack |
 
-## Personal Projects
+## GitHub activity
 
-- **[Botcito](https://github.com/danxvv/botcito)** — A Discord music bot built with Python and `discord.py`, with YouTube playback, autocomplete, autoplay recommendations, interactive queue controls, listening history, ratings, and Docker-based deployment.
-- **[CoDrawing](https://github.com/danxvv/drawai)** — A browser-based drawing and painting workspace built with Next.js, React, and Fabric.js. It combines canvas editing tools with context-aware image generation through OpenRouter.
-- **[Setwise](https://github.com/danxvv/setwise-ios)** — A native iOS workout journal built with SwiftUI and SwiftData for exercise discovery, routine templates, training logs, progress tracking, and optional AI-powered routine suggestions and photo matching.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=danxvv&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;card_width=450" />
+  <img src="https://github-stats-extended.vercel.app/api?username=danxvv&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;card_width=450" alt="Daniel's GitHub stats, including stars, commits, pull requests, and issues" width="450" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=danxvv&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;card_width=350" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=danxvv&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true&amp;card_width=350" alt="Most-used languages across Daniel's public GitHub repositories" width="350" />
+</picture>
 
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/dtemalatzi)
-- [Email](mailto:danielmote97@outlook.com)
+<sub>Cards powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>. Language usage reflects repository code, not proficiency.</sub>
