@@ -2,17 +2,21 @@
 
 **Backend & AI Platform Engineer** · Python, Go & TypeScript
 
-I build cloud-native services, production AI agents, and developer tools that turn complex workflows into useful products. My focus is on reliable APIs, event-driven systems, and secure cloud automation—with observability and maintainability built in.
+I build backend services, AI agents, and tools for the web, desktop, and iOS. My work connects APIs, language models, and user interfaces to automate tasks and make information easier to use. I focus on reliable integrations and code that's easy to maintain.
 
 [LinkedIn](https://linkedin.com/in/dtemalatzi) · [Email](mailto:danielmote97@outlook.com) · [GitHub](https://github.com/danxvv)
 
 ## What I build
 
-- **Backend platforms:** APIs, microservices, and integrations that connect products with external providers.
-- **AI workflows:** MCP servers and LangChain/LangGraph agents for reporting, support, and automation.
-- **Cloud tooling:** Secure onboarding, privileged access, and operational automation for Azure environments.
+- **Backend platforms:** APIs, microservices, event-driven services, and REST/SOAP integrations that connect products with external providers.
+- **AI agents and workflows:** Assistants that use tools, retain conversation context, and work with local or hosted models for reporting, support, document comparison, and automation.
+- **Speech and vision tools:** Audio transcription and translation, receipt extraction, image categorization, and drawing tools with AI image generation.
+- **Bots and messaging integrations:** Discord, Telegram, and WhatsApp tools for music playback, shared queues, expense tracking, budgets, and conversational assistance.
+- **Developer and desktop tools:** CLIs for container workflows, screen capture and recording, and MCP tools for mouse and keyboard control with reusable automation macros.
+- **Web and mobile apps:** Learning tools with in-browser Python execution and algorithm visualizations, job discovery interfaces, and native iOS apps for workout planning and progress tracking.
+- **Cloud operations:** Azure onboarding, secure access, and operational automation, supported by logging and monitoring.
 
-Beyond platform engineering, I build interactive products: music bots with playback and recommendations, browser-based creative tools that combine drawing with AI image generation, and native iOS fitness apps for workout planning and progress tracking. I enjoy connecting backend systems with interfaces people can use every day.
+I also experiment with game-playing agents, interactive storytelling, and hardware projects using microcontrollers and Raspberry Pi.
 
 ## Experience
 
@@ -24,15 +28,20 @@ Beyond platform engineering, I build interactive products: music bots with playb
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | Python, Go, TypeScript, JavaScript, SQL, PowerShell |
-| **Backend & data** | FastAPI, Flask, Gin, Node.js, PostgreSQL, Redis, REST, SOAP |
-| **AI & agents** | LangChain, LangGraph, Model Context Protocol (MCP), agent orchestration, tool calling |
+| **Languages** | Python, Go, TypeScript, JavaScript, Swift, SQL, PowerShell |
+| **Backend & data** | FastAPI, Flask, Gin, Node.js, Pydantic, SQLAlchemy, PostgreSQL, Redis, SQLite |
+| **AI & agents** | LangChain, LangGraph, Agno, Model Context Protocol (MCP), FastMCP, TypeSafe Jev, OpenRouter, Ollama |
+| **Speech & vision** | Faster Whisper, OpenCV |
 | **Azure** | Functions, Resource Graph, Lighthouse, Microsoft Entra PIM, Cosmos DB, Service Bus, Application Insights |
 | **Delivery & operations** | Docker, GitHub Actions, CI/CD, Datadog |
 | **Security & identity** | OAuth 2.0, OpenID Connect, JWKS validation, token introspection, just-in-time privileged access |
-| **Frontend** | React, Astro, TanStack |
+| **Web & mobile** | React, Next.js, Astro, TanStack, Pyodide, SwiftUI, SwiftData |
+| **Desktop & CLI** | PyQt6, Typer, Cobra |
 
 ## GitHub activity
+
+<details>
+<summary>Stats and languages across my public repositories</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=danxvv&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;card_width=450" />
@@ -44,3 +53,5 @@ Beyond platform engineering, I build interactive products: music bots with playb
 </picture>
 
 <sub>Cards powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>. Language usage reflects repository code, not proficiency.</sub>
+
+</details>
